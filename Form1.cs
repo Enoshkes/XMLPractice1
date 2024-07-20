@@ -68,7 +68,7 @@ namespace Windows
 
             LibraryService.WriteXml(withNewBook, PATH);
 
-            BooksGridView.DataSource = withNewBook;
+                BooksGridView.DataSource = withNewBook;
 
         }
     }
