@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <book>
+    <title>Someone to run with</title>
+    <author>David Grosman</author>
+    <year>1995</year>
+  </book>
+  <book>
+    <title>Lord of the rings</title>
+    <author>J K Rollin</author>
+    <year>1998</year>
+  </book>
+</library>

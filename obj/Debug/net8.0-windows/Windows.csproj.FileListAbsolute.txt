@@ -1,0 +1,16 @@
+C:\Users\enosh.tsur\source\repos\Windows\Windows\bin\Debug\net8.0-windows\Windows.exe
+C:\Users\enosh.tsur\source\repos\Windows\Windows\bin\Debug\net8.0-windows\Windows.deps.json
+C:\Users\enosh.tsur\source\repos\Windows\Windows\bin\Debug\net8.0-windows\Windows.runtimeconfig.json
+C:\Users\enosh.tsur\source\repos\Windows\Windows\bin\Debug\net8.0-windows\Windows.dll
+C:\Users\enosh.tsur\source\repos\Windows\Windows\bin\Debug\net8.0-windows\Windows.pdb
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.Form1.resources
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.csproj.GenerateResource.cache
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.AssemblyInfoInputs.cache
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.AssemblyInfo.cs
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.csproj.CoreCompileInputs.cache
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.dll
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\refint\Windows.dll
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.pdb
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\Windows.genruntimeconfig.cache
+C:\Users\enosh.tsur\source\repos\Windows\Windows\obj\Debug\net8.0-windows\ref\Windows.dll
